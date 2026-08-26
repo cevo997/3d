@@ -1,0 +1,87 @@
+{
+  "project": "E-26154",
+  "location": "Jovana Popovića 63A, Novi Sad",
+  "building_type": "Stambeni objekat Su+P+3",
+  "footprint_m": [
+    13.8,
+    13.8
+  ],
+  "site_m": [
+    17.7,
+    24.1
+  ],
+  "levels": {
+    "SOUTERRAIN": -3.9,
+    "GROUND_FLOOR": 0.0,
+    "FLOOR_1": 3.3,
+    "FLOOR_2": 6.6,
+    "FLOOR_3": 9.9
+  },
+  "apartments": {
+    "1": {
+      "area_m2": 37.6,
+      "type": "dvosoban"
+    },
+    "2": {
+      "area_m2": 49.22,
+      "type": "dvosoban"
+    },
+    "3": {
+      "area_m2": 46.78,
+      "type": "dvoiposoban"
+    },
+    "4": {
+      "area_m2": 37.88,
+      "type": "dvosoban"
+    },
+    "5": {
+      "area_m2": 60.53,
+      "type": "trosoban"
+    },
+    "6": {
+      "area_m2": 59.42,
+      "type": "trosoban"
+    },
+    "7": {
+      "area_m2": 40.29,
+      "type": "dvosoban"
+    },
+    "8": {
+      "area_m2": 37.88,
+      "type": "dvosoban"
+    },
+    "9": {
+      "area_m2": 60.53,
+      "type": "trosoban"
+    },
+    "10": {
+      "area_m2": 59.42,
+      "type": "trosoban"
+    },
+    "11": {
+      "area_m2": 40.29,
+      "type": "dvosoban"
+    },
+    "12": {
+      "area_m2": 37.88,
+      "type": "dvosoban"
+    },
+    "13": {
+      "area_m2": 60.53,
+      "type": "trosoban"
+    },
+    "14": {
+      "area_m2": 59.42,
+      "type": "trosoban"
+    },
+    "15": {
+      "area_m2": 40.29,
+      "type": "dvosoban"
+    }
+  },
+  "garage_spaces": 15,
+  "sources": [
+    "Architectural project E-26154 IDR (May 2026)",
+    "Reference photograph provided by user"
+  ]
+}
